@@ -44,7 +44,6 @@ function success() {
                         your items have been shipped. If you would like to check the status of
                         your order(s), press the button below...
                     </p>
-                    <button onClick={() => router.push('/orders')} className="button font-varela mt-8 text-black">Go to My Orders</button>
                 </div>
             </main>
             <Footer />
